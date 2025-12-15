@@ -3,7 +3,7 @@ def greet():
 
 greet()
 
-def praise_me():
+def praiseme():
     print("Say hello to me everyday!!")
 
-
+    
