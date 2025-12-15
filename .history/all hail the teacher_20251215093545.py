@@ -1,0 +1,2 @@
+greet():
+ print()

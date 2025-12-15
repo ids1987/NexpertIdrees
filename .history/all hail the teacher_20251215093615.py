@@ -1,4 +1,4 @@
-def greet():
+
+greet():
     print("All hail the teacher IDREES!!!")
 
-greet()
